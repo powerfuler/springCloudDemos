@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="org.eclipse.m2e.core.pom.dependencies">
+	</section>
+	<section name="org.eclipse.m2e.core.pom.overview">
+		<list key="ciManagementUrl">
+		</list>
+		<list key="ciManagementSystem">
+		</list>
+		<list key="issueManagementSystem">
+		</list>
+		<list key="issueManagementUrl">
+		</list>
+	</section>
+	<section name="MavenProjectImportWizardPage">
+		<list key="rootDirectory">
+			<item value="E:\workspace\GitHub\springCloudDemos\spring-cloud-consul"/>
+			<item value="E:\workspace\GitHub\springCloudDemos\springCloud15-gateway\springCloud15-cloud-gateway"/>
+			<item value="E:\workspace\GitHub\springCloudDemos\springCloud15-gateway"/>
+			<item value="E:\workspace\GitHub\springCloudDemos\springCloud15-gateway\cloud-gateway"/>
+			<item value="E:\workspace\GitHub\springCloudDemos\springCloud14-gateway-service-zuul\springCloud14-eureka-8002"/>
+			<item value="E:\workspace\GitHub\springCloudDemos\springCloud14-gateway-service-zuul\springCloud14-eureka-8001"/>
+			<item value="E:\workspace\GitHub\springCloudDemos\springCloud14-gateway-service-zuul\springCloud14-eureka-8000"/>
+			<item value="E:\workspace\GitHub\springCloudDemos\springCloud14-gateway-service-zuul"/>
+			<item value="E:\workspace\GitHub\springCloudDemos\springCloud13-zuul-test"/>
+			<item value="E:\workspace\GitHub\springCloudDemos\springCloud14-gateway-service-zuul\springCloud14-spring-cloud-eureka"/>
+			<item value="E:\workspace\GitHub\springCloudDemos\springCloud12-zuul"/>
+			<item value="E:\workspace\GitHub\springCloudDemos\springCloud7-ribbon-test"/>
+			<item value="E:\workspace\GitHub\springCloudDemos\springCloud11-feign-test"/>
+			<item value="E:\workspace\GitHub\springCloudDemos\springCloud10-config-eureka-bus"/>
+			<item value="E:\workspace\GitHub\springCloudDemos\springCloud1-eureka"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+</section>

@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Implementation-Title: spring-cloud-zuul
+Implementation-Version: 1.0.0.BUILD-SNAPSHOT
+Built-By: dingjianmin
+Implementation-Vendor-Id: com.neo
+Build-Jdk: 1.8.0_172
+Implementation-URL: http://projects.spring.io/spring-boot/spring-cloud
+ -parent/spring-cloud-zuul/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+

@@ -1,0 +1,40 @@
+spring:
+  application:
+    name: spring-cloud-eureka
+
+---
+spring:
+  # 指定profile=peer1
+  profiles: peer1
+server:
+  port: 8000
+eureka:
+  instance:
+  # 指定当profile=peer1时，主机名是peer1
+    hostname: peer1
+  client:
+    serviceUrl:
+    # 将自己注册到peer2这个Eureka上面去
+      defaultZone: http://peer2:8001/eureka/,http://peer3:8002/eureka/
+---
+spring:
+  profiles: peer2
+server:
+  port: 8001
+eureka:
+  instance:
+    hostname: peer2
+  client:
+    serviceUrl:
+      defaultZone: http://peer1:8000/eureka/,http://peer3:8002/eureka/
+---
+spring:
+  profiles: peer3
+server:
+  port: 8002
+eureka:
+  instance:
+    hostname: peer3
+  client:
+    serviceUrl:
+      defaultZone: http://peer1:8000/eureka/,http://peer2:8001/eureka/

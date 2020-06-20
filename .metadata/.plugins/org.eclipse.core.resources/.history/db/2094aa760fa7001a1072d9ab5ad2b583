@@ -1,0 +1,10 @@
+spring.application.name=spring-cloud-eureka
+server.port=8000
+eureka.instance.hostname=peer1
+
+eureka.client.serviceUrl.defaultZone=http://peer2:8091/eureka/
+
+#表示是否注册Eureka服务器,因为自身作为服务注册中心，所以为false
+eureka.client.registerWithEureka=false
+#是否从eureka上获取注册信息，同上
+eureka.client.fetchRegistry=false

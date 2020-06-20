@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workingSetManager>
+<workingSet editPageId="org.eclipse.ui.resourceWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1591338356863_1" label="springCloudDemos" name="springCloudDemos"/>
+<workingSet editPageId="org.eclipse.ui.resourceWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1591351038280_2" label="springCloud2-config-eureka" name="springCloud2-config-eureka"/>
+<workingSet editPageId="org.eclipse.ui.resourceWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1591352871065_3" label="springCloud3-eureka-producer-consumer" name="springCloud3-eureka-producer-consumer"/>
+<workingSet editPageId="org.eclipse.ui.resourceWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1591356035847_4" label="springCloud4-hystrix" name="springCloud4-hystrix"/>
+<workingSet editPageId="org.eclipse.ui.resourceWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1591587224251_5" label="springCloud5-hystrix-dashboard-turbine" name="springCloud5-hystrix-dashboard-turbine"/>
+<workingSet editPageId="org.eclipse.ui.resourceWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1591607894872_6" label="springCloud6-hystrix -test" name="springCloud6-hystrix -test"/>
+<workingSet editPageId="org.eclipse.ui.resourceWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1591683253974_7" label="springCloud7-ribbon-test" name="springCloud7-ribbon-test"/>
+<workingSet editPageId="org.eclipse.ui.resourceWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1591696035625_8" label="springCloud10-config-eureka-bus" name="springCloud10-config-eureka-bus"/>
+<workingSet editPageId="org.eclipse.ui.resourceWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1591701757119_9" label="springCloud12-zuul" name="springCloud12-zuul"/>
+<workingSet editPageId="org.eclipse.ui.resourceWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1591703312111_10" label="springCloud13-zuul-test" name="springCloud13-zuul-test"/>
+<workingSet editPageId="org.eclipse.ui.resourceWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1591703375838_11" label="zuul-test" name="zuul-test"/>
+<workingSet editPageId="org.eclipse.ui.resourceWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1591755777323_12" label="springCloud14-gateway-service-zuul" name="springCloud14-gateway-service-zuul"/>
+<workingSet editPageId="org.eclipse.ui.resourceWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1591762264909_13" label="spring-cloud-consul" name="spring-cloud-consul">
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/spring-cloud-consul" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/spring-cloud-consul-consumer" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/spring-cloud-consul-producer" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/spring-cloud-consul-producer-2" type="4"/>
+</workingSet>
+<workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1564887114423_0" label="Window Working Set" name="Aggregate for window 1564887114414"/>
+</workingSetManager>
